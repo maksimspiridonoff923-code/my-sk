@@ -17,3 +17,19 @@
 pip install aiohttp
 ```
 
+
+---
+
+## 📥 Скачать для Windows
+
+**1. Скачай ZIP-архив**  
+👉 https://github.com/maksimspiridonoff923-code/my-sk/archive/refs/heads/main.zip
+
+**2. Распакуй в любую папку**
+
+**3. Запусти `start.bat`** — двойной клик
+
+**4. Вставь свои данные в `src/sender.py`**  
+(ID_INSTANCE, API_TOKEN, CHAT_ID)
+
+**5. Готово. Рассылка пошла.**
